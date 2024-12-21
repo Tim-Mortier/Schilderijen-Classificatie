@@ -1,3 +1,6 @@
 #Ignore images and back-up images
 /images
 /backup_images
+/imbalanced_dataset
+/oversampled_dataset
+/undersampled_dataset
