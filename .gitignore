@@ -8,3 +8,6 @@
 
 #Ignore model files
 *.keras
+
+#Ignore zip files
+*.zip
