@@ -4,6 +4,7 @@
 /backup_cleaned_images
 /imbalanced_dataset
 /oversampled_dataset
+/smaller_oversampled_dataset
 /undersampled_dataset
 
 #Ignore model files
