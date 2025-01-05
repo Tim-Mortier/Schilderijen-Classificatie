@@ -5,7 +5,6 @@
 /imbalanced_dataset
 /oversampled_dataset
 /smaller_oversampled_dataset
-/undersampled_dataset
 
 #Ignore zip files
 *.zip
