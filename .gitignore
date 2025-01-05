@@ -2,7 +2,6 @@
 /images
 /backup_images
 /backup_cleaned_images
-/imbalanced_dataset
 
 #Ignore zip files
 *.zip
